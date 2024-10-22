@@ -1,15 +1,23 @@
-### Hello there 😄
+### Hello there, my name is Leonardo, how are u? 😄
 
 - 👨🏻‍💻 Software Engineer Student 1/4
-- 👨🏻‍💼 Public manager
-- 🌱 I’m currently learning C / C++ / C# / Python / HTML
+- 👨🏻‍💼 Public manager - Tender Analyst
+- 🌱 I’m currently learning C / C++ / JavaScript / Python / HTML
 - 📫 How to reach me: leonardotrx@outlook.com
 
-![Teeixeira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teeixeira&show_icons=true&theme=shadow_red)
+ <div>
+  <a href="https://github.com/Teeixeira">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Teeixeira&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teeixeira&layout=compact&langs_count=16&theme=gotham"/>
+</div>
 
 ##
 
 <div style="display: inline_block"><br>
+
+  <img align="center" alt="Leo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Leo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> 
+  <img align="center" alt="Leo-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
@@ -17,10 +25,9 @@
 ##
 
 <div> 
-  <a href="https://www.youtube.com/channel/UCUF1_bUzok6Upjyb61n9Gtg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/teeixeira_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/Teeixeira" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leonardotrx@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leonardotrx@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-teixeira-de-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
