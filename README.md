@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Software Engineer Student 1/4
 - 👨🏻‍💼 Public manager
-- 🌱 I’m currently learning C / C++ / Python / HTML
+- 🌱 I’m currently learning C / C++ / C# / Python / HTML
 - 📫 How to reach me: leonardotrx@outlook.com
 
 ![Teeixeira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teeixeira&show_icons=true&theme=shadow_red)
