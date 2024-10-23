@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Software Engineer Student 1/4
 - 👨🏻‍💼 Public manager - Tender Analyst
-- 🌱 I’m currently learning C / C++ / JavaScript / Python / HTML
+- 🌱 I’m currently learning C / JavaScript / Python / HTML
 - 📫 How to reach me: leonardotrx@outlook.com
 
  <div>
