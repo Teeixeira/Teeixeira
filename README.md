@@ -1,8 +1,8 @@
 ### Hello there, my name is Leonardo, how are u? 😄
 
 - 👨🏻‍💻 Software Engineer Student 2/4
-- 👨🏻‍💼 Public manager - Tender Analyst
-- 🌱 I’m currently learning C / JavaScript / Python / HTML
+- 🖥️ Support Analyst
+- 🌱 I’m currently learning C / JavaScript / Python / HTML / CSS
 - 📫 How to reach me: leonardotrx@outlook.com
 
  <div>
