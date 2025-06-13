@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Software Engineer Student 2/4
 - 🖥️ Support Analyst
-- 🌱 I’m currently learning C / JavaScript / Python / HTML / CSS
+- 🌱 I’m currently learning C / JavaScript / Java / HTML / CSS
 - 📫 How to reach me: leonardotrx@outlook.com
 
  <div>
